@@ -14,6 +14,6 @@ was made it with an api from JSON Placeholder's page
 
 
 Technologies
-- Nodejs
+- HTML and CSS
 - Javascript
 - Bootstrap
